@@ -22,11 +22,11 @@ Run `ng serve --port 8081` for a dev server. Navigate to `http://localhost:8081/
 ## More Practice:
 > [Angular example: CRUD Application with Rest API](https://www.bezkoder.com/angular-14-crud-example/)
 
-> [Angular JWT Authentication & Authorization with Web API](https://www.bezkoder.com/angular-13-jwt-auth/)
+> [Angular JWT Authentication & Authorization with Web API](https://www.bezkoder.com/angular-14-jwt-auth/)
 
 > [Angular File upload example with Progress bar](https://www.bezkoder.com/angular-14-file-upload/)
 
-> [Angular Multiple Files upload example with Progress Bar](https://www.bezkoder.com/angular-13-multiple-file-upload/)
+> [Angular Multiple Files upload example with Progress Bar](https://www.bezkoder.com/angular-14-multiple-file-upload/)
 
 > [Angular Form Validation example (Reactive Forms)](https://www.bezkoder.com/angular-14-form-validation/)
 
@@ -36,9 +36,9 @@ Fullstack with Node:
 
 > [Angular + Node Express + PostgreSQL example](https://www.bezkoder.com/angular-14-node-js-express-postgresql/)
 
-> [Angular + Node Express + MongoDB example](https://www.bezkoder.com/mean-stack-crud-example-angular-13/)
+> [Angular + Node Express + MongoDB example](https://www.bezkoder.com/mean-stack-crud-example-angular-14/)
 
-> [Angular + Node Express: File upload example](https://www.bezkoder.com/angular-13-node-express-file-upload/)
+> [Angular + Node Express: File upload example](https://www.bezkoder.com/angular-14-node-express-file-upload/)
 
 Fullstack with Spring Boot:
 
@@ -48,24 +48,24 @@ Fullstack with Spring Boot:
 
 > [Angular + Spring Boot + PostgreSQL example](https://www.bezkoder.com/spring-boot-angular-14-postgresql/)
 
-> [Angular + Spring Boot + MongoDB example](https://www.bezkoder.com/angular-13-spring-boot-mongodb/)
+> [Angular + Spring Boot + MongoDB example](https://www.bezkoder.com/spring-boot-angular-14-mongodb/)
 
-> [Angular + Spring Boot: File upload example](https://www.bezkoder.com/angular-13-spring-boot-file-upload/)
+> [Angular + Spring Boot: File upload example](https://www.bezkoder.com/angular-14-spring-boot-file-upload/)
 
 Fullstack with Django:
 > [Angular + Django example](https://bezkoder.com/django-angular-13-crud-rest-framework/)
 
 Security:
-> [Angular + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-13-spring-boot-jwt-auth/)
+> [Angular + Spring Boot: JWT Authentication and Authorization example](https://www.bezkoder.com/angular-14-spring-boot-jwt-auth/)
 
-> [Angular + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-13-jwt-auth/)
+> [Angular + Node.js Express: JWT Authentication and Authorization example](https://www.bezkoder.com/node-js-angular-14-jwt-auth/)
 
 Serverless with Firebase:
-> [Angular Firebase CRUD with Realtime DataBase | AngularFireDatabase](https://www.bezkoder.com/angular-13-firebase-crud/)
+> [Angular 14 Firebase CRUD with Realtime DataBase](https://www.bezkoder.com/angular-14-firebase-crud/)
 
-> [Angular Firestore CRUD example with AngularFireStore](https://www.bezkoder.com/angular-13-firestore-crud-angularfirestore/)
+> [Angular 14 Firestore CRUD example](https://www.bezkoder.com/angular-14-firestore-crud/)
 
-> [Angular Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-13-firebase-storage/)
+> [Angular 14 Firebase Storage: File Upload/Display/Delete example](https://www.bezkoder.com/angular-14-firebase-storage/)
 
 Integration (run back-end & front-end on same server/port)
 > [How to integrate Angular with Node Restful Services](https://bezkoder.com/integrate-angular-12-node-js/)
